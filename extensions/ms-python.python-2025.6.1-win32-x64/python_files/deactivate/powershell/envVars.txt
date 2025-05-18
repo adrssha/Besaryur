@@ -1,6 +1,6 @@
 ALLUSERSPROFILE=C:\ProgramData
 APPDATA=C:\Users\echaa\AppData\Roaming
-CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_11260_EMXFPZZYNZNYHPOW
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_18976_HJQGIBVLFKUMGGFG
 COMMONPROGRAMFILES=C:\Program Files\Common Files
 COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
 COMMONPROGRAMW6432=C:\Program Files\Common Files
@@ -8,7 +8,6 @@ COMPUTERNAME=KEISHA
 COMSPEC=C:\WINDOWS\system32\cmd.exe
 DRIVERDATA=C:\Windows\System32\Drivers\DriverData
 EFC_3668_1592913036=1
-EFC_3668_2283032206=1
 HOMEDRIVE=C:
 HOMEPATH=\Users\echaa
 IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA3DynTT+1gkSFAYhyvhxGRQQAAAACAAAAAAAQZgAAAAEAACAAAABJGa4+rwFVQ8xgJZxpBh3wPGPZwWoSxL6IGmzT9Jo1hwAAAAAOgAAAAAIAACAAAADV6Z8nGDvNsjKLp6Ta0dYLs+3YBwp4jDJHz2w3L+9kmmAAAADaSsKshj3CagNKIjnFiBMbO+o34c6uPgIw8RE+k2c5ZLE0ibCOmVuVt/Rjlv+Fb5JjvY62A9aQzcfYVMl7WrBIcX880kYjHYXgu/qci5O5G1nox5Y4Wzr+BlkOeArfIJdAAAAAHpTKdCS+gbIPVEFWtKWUF0l1UFbF+rQriX2goHlcgMsMIS3musEf0ZB5jrbs0as6WyAehQwFGLxNrxU15PcWNQ==
@@ -43,17 +42,17 @@ USERPROFILE=C:\Users\echaa
 WINDIR=C:\WINDOWS
 ZES_ENABLE_SYSMAN=1
 TERM_PROGRAM=vscode
-TERM_PROGRAM_VERSION=1.99.3
+TERM_PROGRAM_VERSION=1.100.2
 LANG=en_US.UTF-8
 COLORTERM=truecolor
 PYDEVD_DISABLE_FILE_VALIDATION=1
 VSCODE_DEBUGPY_ADAPTER_ENDPOINTS=c:\Users\echaa\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\.noConfigDebugAdapterEndpoints\endpoint-dfae7716ca09a074.txt
 VSCODE_ENV_PREPEND=PATH=C\x3a\Users\echaa\Downloads\SIM;C\x3a\Users\echaa\Downloads\SIM\Library\mingw-w64\bin;C\x3a\Users\echaa\Downloads\SIM\Library\usr\bin;C\x3a\Users\echaa\Downloads\SIM\Library\bin;C\x3a\Users\echaa\Downloads\SIM\Scripts;C\x3a\Users\echaa\Downloads\SIM\bin;C\x3a\Users\echaa\Downloads\SIM\condabin;C\x3a\WINDOWS\system32;C\x3a\WINDOWS;C\x3a\WINDOWS\System32\Wbem;C\x3a\WINDOWS\System32\WindowsPowerShell\v1.0;C\x3a\WINDOWS\System32\OpenSSH;C\x3a\Users\echaa\Downloads\SIM\Scripts;C\x3a\Users\echaa\Downloads\SIM;C\x3a\Users\echaa\Downloads\SIM\Scripts;C\x3a\Users\echaa\Downloads\SIM\Scripts;C\x3a\Users\echaa\Downloads;C\x3a\Program Files\Git\cmd;C\x3a\Users\echaa\AppData\Local\Programs\Python\Python313\Scripts;C\x3a\Users\echaa\AppData\Local\Programs\Python\Python313;C\x3a\Users\echaa\AppData\Local\Microsoft\WindowsApps;C\x3a\Users\echaa\Downloads\Microsoft VS Code\bin;
 BUNDLED_DEBUGPY_PATH=c:\Users\echaa\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy
-GIT_ASKPASS=c:\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
-VSCODE_GIT_ASKPASS_NODE=C:\Microsoft VS Code\Code.exe
+GIT_ASKPASS=c:\Users\echaa\Downloads\Microsoft VS Code\_\resources\app\extensions\git\dist\askpass.sh
+VSCODE_GIT_ASKPASS_NODE=C:\Users\echaa\Downloads\Microsoft VS Code\_\Code.exe
 VSCODE_GIT_ASKPASS_EXTRA_ARGS=
-VSCODE_GIT_ASKPASS_MAIN=c:\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\echaa\Downloads\Microsoft VS Code\_\resources\app\extensions\git\dist\askpass-main.js
 VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-00d3a00be9-sock
 CONDA_ALLOW_SOFTLINKS=false
 VSCODE_ENV_REPLACE=CONDA_ALLOW_SOFTLINKS=false:CONDA_DEFAULT_ENV=base:CONDA_EXE=C\x3a\Users\echaa\Downloads\SIM\Scripts\conda.exe:CONDA_PREFIX=C\x3a\Users\echaa\Downloads\SIM:CONDA_PROMPT_MODIFIER=(base) :CONDA_PYTHON_EXE=C\x3a\Users\echaa\Downloads\SIM\python.exe:CONDA_ROOT=C\x3a\Users\echaa\Downloads\SIM:CONDA_SHLVL=1:PROMPT=(base) $P$G:SSL_CERT_FILE=C\x3a\Users\echaa\Downloads\SIM\Library\ssl\cacert.pem:_CONDA_OLD_CHCP=437:__CONDA_OPENSLL_CERT_FILE_SET="1"
@@ -69,5 +68,5 @@ SSL_CERT_FILE=C:\Users\echaa\Downloads\SIM\Library\ssl\cacert.pem
 _CONDA_OLD_CHCP=437
 __CONDA_OPENSLL_CERT_FILE_SET="1"
 VSCODE_INJECTION=1
-VSCODE_NONCE=99795f13-5ac1-46b5-8b3a-204f755e8577
+VSCODE_NONCE=dba79a8b-4231-40d9-9ec4-ae76d9cd037e
 VSCODE_STABLE=1
