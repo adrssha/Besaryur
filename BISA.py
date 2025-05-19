@@ -10,11 +10,18 @@ import json
 
 # Fungsi untuk memuat data user dari file users.json
 def load_users():
-    try:
-        with open("users.json", "r") as f:
-            return json.load(f)
-    except FileNotFoundError:
-        return {} 
+    default_users = {
+        "admin": {"password": "admin123", "role": "admin"},
+        "buyer1": {"password": "buyer123", "role": "buyer"}
+    }
+
+    if not os.path.exists("users.json") or os.path.getsize("users.json") == 0:
+        with open("users.json", "w") as f:
+            json.dump(default_users, f, indent=4)
+        return default_users
+
+    with open("users.json", "r") as f:
+        return json.load(f)
 
 # Fungsi untuk menyimpan data user ke users.json
 def save_users(users):
