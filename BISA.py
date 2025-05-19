@@ -3,7 +3,6 @@ import pandas as pd
 from datetime import date
 import os
 import json
-import time 
 
 # =========================
 # FUNGSI UNTUK MENGELOLA DATA USER & STOK
@@ -53,7 +52,6 @@ def login():
     st.title("🔐 Login")
     username = st.text_input("Username")
     password = st.text_input("Password", type="password")
-
     users = load_users()  # Untuk mengmbil data user dari file
 
     if st.button("Login"):
@@ -184,7 +182,7 @@ else:
                 for j in range(3):
                     if i + j < len(image_paths):
                         with cols[j]:
-                            st.image(image_paths[i + j], use_column_width=True)
+                            st.image(image_paths[i + j], use_container_width=True)
 # =====================
 # HALAMAN PRODUK
 # ===================== 

@@ -1,0 +1,22 @@
+{
+    "Minyur1": {
+        "password": "Minyur123",
+        "role": "admin"
+    },
+    "Larisa": {
+        "password": "Larisa123",
+        "role": "buyer"
+    },
+    "admin": {
+        "password": "admin123",
+        "role": "admin"
+    },
+    "Fathin": {
+        "password": "Minjang123",
+        "role": "buyer"
+    },
+    "Natavia": {
+        "password": "Minjang2",
+        "role": "buyer"
+    }
+}
