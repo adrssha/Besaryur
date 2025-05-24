@@ -1,1 +1,6 @@
-{"Selada": {"stok": 36, "harga_per_kilo": 25000}}
+{
+    "Selada": {
+        "stok": 50,
+        "harga_per_kilo": 25000
+    }
+}
