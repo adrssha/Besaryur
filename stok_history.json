@@ -1,0 +1,73 @@
+{
+    "Selada": {
+        "transactions": [
+            {
+                "timestamp": "2025-06-05 17:09:26",
+                "perubahan": 10,
+                "harga_per_kilo": 25000,
+                "stok_setelah": 60
+            },
+            {
+                "timestamp": "2025-06-05 17:12:51",
+                "perubahan": 5,
+                "harga_per_kilo": 25000,
+                "stok_setelah": 65
+            },
+            {
+                "timestamp": "2025-06-06 07:30:41",
+                "jenis": "Penambahan Stok",
+                "jumlah": 2,
+                "harga_baru": 25000,
+                "stok_akhir": 67,
+                "metode": "FIFO"
+            },
+            {
+                "timestamp": "2025-06-06 07:34:32",
+                "perubahan": 5,
+                "harga_baru": 25000,
+                "stok_akhir": 67
+            },
+            {
+                "id": "bd3aaebf",
+                "timestamp": "2025-06-06 07:44:26",
+                "jenis": "Penambahan Stok",
+                "jumlah": 5,
+                "harga": 25000,
+                "stok_akhir": 80
+            },
+            {
+                "id": "b15cc8d5",
+                "timestamp": "2025-06-06 08:08:20",
+                "jenis": "Penambahan Stok",
+                "jumlah": 12,
+                "harga": 25000,
+                "stok_akhir": 82
+            },
+            {
+                "id": "eb39effa",
+                "timestamp": "2025-06-06 08:27:28",
+                "jenis": "Penambahan Stok",
+                "jumlah": 4,
+                "harga": 25000,
+                "stok_akhir": 70
+            },
+            {
+                "id": "2944abba",
+                "timestamp": "2025-06-06 08:33:59",
+                "jenis": "Pengurangan Stok",
+                "jumlah": 2,
+                "harga": 25000,
+                "stok_akhir": 68
+            }
+        ],
+        "fifo_batches": [
+            {
+                "batch_id": "eb39effa",
+                "timestamp": "2025-06-06 08:27:28",
+                "jumlah": 4,
+                "harga": 25000,
+                "sisa": 2
+            }
+        ]
+    }
+}
